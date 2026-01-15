@@ -1,0 +1,311 @@
+.
+.
+.
+.
+.
+If A = 1 and B = 1, what is (A • ¬B)?
+Always true.
+Always false.
+Both.
+Neither.
+Always false.
+The operator + is best represented by...
+"I will buy a pineapple and a pizza."
+"I will buy a pineapple and/or a pizza."
+"I will buy a pineapple or a pizza."
+"I will not buy a pineapple nor a pizza."
+"I will buy a pineapple and/or a pizza."
+If A = 1 and B = 0, in which case will (A + B • C) equate to 1?
+When C is 1.
+When C is 0.
+Never.
+Always.
+Always.
+Evaluate •(¬1 • 0 + ¬0)
+1
+0
+Not enough information.
+Incorrect syntax.
+Incorrect syntax.
+Given ¬(A + ¬B) = 1, which of the following equates to 0?
+(A + B • ¬B • ¬A)
+(A + B + ¬B)
+(¬A • B)
+More information is required.
+(A + B • ¬B • ¬A)
+"My pet is a dog ___ fish," would make sense with the...
+• operator
++ operator
+Neither + nor •.
+Either of the operators • or + is acceptable.
+Neither + nor •.
+If Q = R and ¬R + S = 1, what is (Q • R • S)?
+0
+1
+2
+Not enough information.
+Not enough information.
+If ¬K = N and M = N, when will ((M + K) • ¬(M • N)) equate to 1?
+When N is 1.
+When N is 0.
+Always 1.
+Can never equate to 1.
+When N is 0.
+Which of the following is equivalent to (Q • W + E • R • T + Y)?
+Q (W + E) (R • T) + Y
+(Q • W) + (T (E • R)) + Y
+(Q • W) (E + R + T) • Y
+Q + W + E + R + T + Y
+(Q • W) + (T (E • R)) + Y
+Which of the following is equivalent to (A • S + ¬D • ¬F)
+(A • S) + (¬D • ¬F)
+A(S + D + F)
+A(¬F)(S + ¬D)
+None of the options.
+(A • S) + (¬D • ¬F)
+Neither an • nor + operator will evaluate to 1 when…
+Both arguments are 1.
+The first argument is 1, the second is 0.
+The first argument is 0, the second is 1.
+Both arguments are 0.
+Both arguments are 0.
+F = 0, G = 1, and H = 1. What is ¬G(H • G + F • G + H • ¬F)?
+1
+0
+Not enough information.
+Incorrect syntax.
+0
+In boolean algebra, 1 + 1 ≠ 2. Why?
+Only true and false values are involved, represented by 1 and 0.
+That's false. 1 + 1 = 2 in boolean algebra.
+1 + 1 = 0 in boolean algebra.
+1 + 0 = 2 in boolean algebra.
+Only true and false values are involved, represented by 1 and 0.
+Why is a multiplication sign used for the AND operator?
+That's false. + is used for AND.
+A value plus 0 is that value.
+Anything multiplied by 0 is 0.
+Anything multiplied by 1 is 1.
+Anything multiplied by 0 is 0.
+Why is a plus sign used for the OR operator?
+That's false. • is used for OR.
+A boolean value plus 1 tells you there's at least 1, not nothing.
+A value plus 1 is that value.
+Anything multiplied by 1 is 1.
+A boolean value plus 1 tells you there's at least 1, not nothing.
+If U = F and U + O = 0, what is (U • F • O)?
+1
+0
+Not enough information.
+Incorrect syntax.
+0
+The expression (¬A + B ¬C + D) is equal to 0 when...
+A = 1, B = 0, C = 0, D = 0
+A = 1, B = 0, C = 1, D = 0
+A = 0, B = 1, C = 0, D = 0
+A = 1, B = 0, C = 1, D = 1
+A = 1, B = 0, C = 1, D = 0
+The coffee order "1% or 2% milk, sweetened, no foam, iced" is shown by...
+(O + T) • S • ¬F • I
+O • T • S • F • I
+O ⊕ T • S • ¬F • I
+O + T • ¬F • S • I
+O ⊕ T • S • ¬F • I
+"Buy me that hat and jacket, or nothing at all," is represented by...
+H + J
+H • J
+H ⊕ J
+H ⊙ J
+H ⊙ J
+S = 0, B = 1, and ¬P = B. What is ¬(S ¬• B) + (P ⊕ B ⊙ S)?
+1
+0
+Not enough information.
+Incorrect syntax.
+Incorrect syntax.
+Is ((A + B) • (¬A + ¬B)) equivalent to (A ⊕ B)?
+Yes.
+No.
+Not enough information.
+Incorrect syntax.
+Yes.
+Is ((A • B) + (¬A • ¬B)) equivalent to (A ⊙ B)?
+Yes.
+No.
+Not enough information.
+Incorrect syntax.
+Yes.
+(A + B) • ¬(AB) is equivalent to…
+A ⊙ B
+(A ⊕ B) ⊙ A
+A ⊕ B
+(A ⊙ B) ⊕ A
+A ⊕ B
+(A ⊙ A) is always…
+0
+A
+Depends on the value of A
+1
+1
+¬(X + Y) = ¬X • ¬Y. This means there's logically no difference between…
+a NOR and an AND gate with inverted inputs
+a NAND and an OR gate with inverted inputs
+an AND and a NOR gate with inverted inputs
+a NOR and a NAND gate with inverted inputs
+a NOR and an AND gate with inverted inputs
+(X ⊕ X) is always…
+1
+0
+Depends on the value of A
+A
+0
+Simplify (M ⊕ ¬M • N ⊙ N).
+1
+0
+M + N
+More information is required.
+1
+The NAND gate serves the same purpose as XOR, except when…
+Both arguments are 1.
+Both arguments are 0.
+The first argument is 0.
+The second argument is 1.
+Both arguments are 0.
+(Q ⊕ ¬Q) • (U ⊙ U) will always equate to…
+0
+Q • U
+1
+Q ⊕ U
+1
+When C = ¬X and Z = 0, (Z • X ⊕ C) ⊙ (Z + XC) is equivalent to…
+ZX
+C + Z
+0
+1
+1
+When C = P = R = S, (¬P + ¬(R+C) ⊕ ¬(R+C) ⊙ (S ⊙ ¬S)) is equivalent to…
+1
+0
+S • R • C
+¬P
+1
+In (A ⊕ B ⊙ C • D ⊙ E), you must…
+Do all XNOR operations first, then do the rest going left to right.
+Evaluate the entire expression left to right.
+Do the AND operation first, then XOR, then XNOR.
+Do XOR and XNOR going left to right, then do the AND.
+Do XOR and XNOR going left to right, then do the AND.
+X = 0, Y = 1, and ¬Z = Y. What is ¬(X • Y) + (Z ⊕ Y ⊙ X).
+1
+0
+X + Z
+XY
+1
+When A = B = ¬C = ¬D, (¬B ⊙ D + A • B ⊕ C) is equivalent to…
+1
+0
+ABC
+¬(B + D)
+1
+The simplified form of ((¬X)(¬Y)(Z) + YZ + XZ) is…
+X + Y + ZX + Y
+XY - YZ
+X + YZ
+XZ + Y
+X + YZ
+(X ⊕ Y) ⊕ Y evaluates to…
+1
+0
+X
+Y
+X
+QR + Q(¬R) + (¬Q)S + QS is independent of the variable…
+Q
+R
+S
+None of the options.
+R
+What is the simplified form of (A(¬B)(C+BD) + (¬A)(¬B)C)?
+(¬B)C
+(¬A)(¬B)C
+A(¬B)C
+(¬A)BC
+(¬B)C
+By applying DeMorgan's Law to ¬(ABC), we get…
+¬A + ¬B + ¬C
+¬(A + B + C)
+A + ¬B + C(¬C)
+A(B + C)
+¬A + ¬B + ¬C
+A(A + B) = ?
+AB
+1
+(1 + AB)
+A
+A
+(¬X)Y(¬Z) + (¬X)YZ + XY(¬Z) + XYZ simplifies to…
+(¬X)Z
+XYZ
+Y
+YZ
+Y
+(X • Y = Y • X) is the…
+Commutative law
+DeMorgan's law
+Associative law
+Identity law (Rule 1 and 4)
+Commutative law
+Which of the following equations is an example of the Associative Law?
+A•(B+C)=AB+AC
+A•1=1
+A+(B+C)=(A+B)+C
+A+B=B+C
+A+(B+C)=(A+B)+C
+The most simplified form of (AB(¬A) + C(¬C)) is…
+AB+C
+0
+B+C
+A(¬B)+C
+0
+Which of the following is DeMorgan's law?
+M•(¬M + N) = M • N
+M+(N • O) = (M + N)(M + O)
+¬(M + N) = ¬M • ¬N
+M • (N • O) = (M • N) • O
+¬(M + N) = ¬M • ¬N
+(A + AB) = A.
+True.
+False.
+More information is required.
+(A + AB) is impossible to simplify.
+True
+DeMorgan's law is the simplification of…
+XOR and XNOR
+NAND and NOR
+OR and XNOR
+XNOR and AND
+NAND and NOR
+The associative law works because…
+If all operations use the same operator, the order doesn't matter.
+A boolean value AND its negated value is always equal to 0.
+A boolean value OR itself is always equal to itself.
+You can take a variable as common if all terms have it.
+If all operations use the same operator, the order doesn't matter.
+What is the most simplified form of (A+B+A+B)?
+1
+A(1+1)+B(1+1)
+A+B
+A
+A+B
+Which of the following expressions is equivalent to (C ⊕ V)?
+C+V
+C(¬V)+(¬C)V
+CV
+(¬C)+(¬V)
+C(¬V)+(¬C)V
+(X(¬Y))(Z + YW) + (¬X)(¬Y))Z simplifies to…
+XY
+X+Y+Z
+X
+(¬Y)Z
+(¬Y)Z
